@@ -4,7 +4,7 @@
   <strong>English</strong> · <a href="README.zh-Hans.md">简体中文</a>
 </p>
 
-A curated catalog of public applications, extensions, and AI projects maintained by [Qingtan Labs](https://github.com/qingtan-labs).
+A curated catalog of public applications and browser extensions maintained by [Qingtan Labs](https://github.com/qingtan-labs).
 
 ## macOS Applications
 
@@ -22,9 +22,5 @@ A native Dock and menu bar controller for DeepSeek Harness (DSH). It manages the
 Projects will be added here as they are released.
 
 ## Chrome Extensions
-
-Projects will be added here as they are released.
-
-## AI Applications
 
 Projects will be added here as they are released.
