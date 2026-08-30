@@ -4,7 +4,7 @@
   <a href="README.md">English</a> · <strong>简体中文</strong>
 </p>
 
-这里集中展示 [Qingtan Labs](https://github.com/qingtan-labs) 维护的公开应用、浏览器扩展和 AI 项目。
+这里集中展示 [Qingtan Labs](https://github.com/qingtan-labs) 维护的公开应用和浏览器扩展。
 
 ## macOS 应用
 
@@ -22,9 +22,5 @@
 相关项目将在发布后添加到这里。
 
 ## Chrome 浏览器扩展
-
-相关项目将在发布后添加到这里。
-
-## AI 应用
 
 相关项目将在发布后添加到这里。
