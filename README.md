@@ -15,16 +15,19 @@ A native Dock and menu bar controller for DeepSeek Harness (DSH). It manages the
 - **Highlights:** Single-file DMG, existing-environment-first setup, Dock and menu bar access, browser-tab reuse, service health and user-confirmed update controls, login startup, English and Simplified Chinese, and a universal Apple silicon/Intel build
 - **Requirements:** macOS 13 Ventura or later
 - **License:** MIT
-- **Links:** [Download DMG](https://github.com/qingtan-labs/deepseek-harness-macos/releases/latest/download/DeepSeek-Harness-1.0.0-macOS.dmg) · [Source code](https://github.com/qingtan-labs/deepseek-harness-macos) · [Release notes](https://github.com/qingtan-labs/deepseek-harness-macos/releases/latest) · [简体中文](https://github.com/qingtan-labs/deepseek-harness-macos/blob/main/README.zh-Hans.md)
+- **Project status:** Independent community project; not affiliated with or endorsed by DeepSeek
+- **Release trust:** The current release is ad-hoc signed and not Apple-notarized; use Control-click **Open** and never disable Gatekeeper
+- **Links:** [Latest release and download](https://github.com/qingtan-labs/deepseek-harness-macos/releases/latest) · [Source code](https://github.com/qingtan-labs/deepseek-harness-macos) · [Installation guide](https://github.com/qingtan-labs/deepseek-harness-macos/blob/main/docs/installation.md) · [简体中文](https://github.com/qingtan-labs/deepseek-harness-macos/blob/main/README.zh-Hans.md)
 
 ### [StatusPerch](https://github.com/qingtan-labs/StatusPerch)
 
 A lightweight native macOS menu bar organizer. Place low-frequency status items to the left of a movable boundary, then hide or reveal them with one click.
 
-- **Highlights:** One-click hide and reveal, Command-drag positioning, timed auto-hide, login startup, English and Simplified Chinese, fully offline operation, and a universal Apple silicon/Intel build
+- **Highlights:** One-click hide and reveal, Command-drag positioning, timed auto-hide, login startup, English and Simplified Chinese, fully offline operation without accounts, analytics, Screen Recording, or Accessibility permissions, and a universal Apple silicon/Intel build
 - **Requirements:** macOS 13 Ventura or later
 - **License:** Proprietary freeware
-- **Official links:** [Product website](https://qingtan-labs.github.io/StatusPerch/) · [Official downloads](https://github.com/qingtan-labs/StatusPerch/releases/latest) · [Project repository](https://github.com/qingtan-labs/StatusPerch) · [English manual](https://github.com/qingtan-labs/StatusPerch/blob/main/docs/user-manual/en/README.md) · [简体中文手册](https://github.com/qingtan-labs/StatusPerch/blob/main/docs/user-manual/zh-Hans/README.md) · [Privacy](https://github.com/qingtan-labs/StatusPerch/blob/main/PRIVACY.md) · [Support](https://github.com/qingtan-labs/StatusPerch/blob/main/SUPPORT.md)
+- **Release trust:** The current release is ad-hoc signed and not Apple-notarized; follow the safe installation guide and never disable Gatekeeper
+- **Official links:** [Product website](https://qingtan-labs.github.io/StatusPerch/) · [Official downloads](https://github.com/qingtan-labs/StatusPerch/releases/latest) · [Safe installation](https://github.com/qingtan-labs/StatusPerch/blob/main/docs/user-manual/en/1-installation.md) · [Project repository](https://github.com/qingtan-labs/StatusPerch) · [English manual](https://github.com/qingtan-labs/StatusPerch/blob/main/docs/user-manual/en/README.md) · [简体中文手册](https://github.com/qingtan-labs/StatusPerch/blob/main/docs/user-manual/zh-Hans/README.md) · [Privacy](https://github.com/qingtan-labs/StatusPerch/blob/main/PRIVACY.md) · [Support](https://github.com/qingtan-labs/StatusPerch/blob/main/SUPPORT.md)
 
 ## Windows Applications
 
@@ -35,7 +38,10 @@ A native, one-click Windows controller for DeepSeek Harness. It installs an isol
 - **Highlights:** One-click setup, browser-tab reuse, optional in-app window, system tray controls, explicit update checks, launch at sign-in, English and Simplified Chinese, and x64/ARM64 support
 - **Requirements:** Windows 10 22H2 or Windows 11, x64 or ARM64, and .NET Framework 4.8
 - **License:** MIT
-- **Links:** [Source code](https://github.com/qingtan-labs/deepseek-harness-windows) · [Latest release](https://github.com/qingtan-labs/deepseek-harness-windows/releases/latest) · [简体中文](https://github.com/qingtan-labs/deepseek-harness-windows/blob/main/README.zh-Hans.md) · [Installation guide](https://github.com/qingtan-labs/deepseek-harness-windows/blob/main/docs/installation.md)
+- **Project status:** Independent community project; not affiliated with or endorsed by DeepSeek
+- **Installation:** The default per-user installation requires no administrator privileges; release downloads include SHA-256 verification
+- **Release trust:** The current release is not Authenticode-signed, so Windows SmartScreen may show an unknown-publisher warning
+- **Links:** [Latest release and download](https://github.com/qingtan-labs/deepseek-harness-windows/releases/latest) · [Source code](https://github.com/qingtan-labs/deepseek-harness-windows) · [Installation guide](https://github.com/qingtan-labs/deepseek-harness-windows/blob/main/docs/installation.md) · [Security](https://github.com/qingtan-labs/deepseek-harness-windows/blob/main/SECURITY.md) · [简体中文](https://github.com/qingtan-labs/deepseek-harness-windows/blob/main/README.zh-Hans.md)
 
 ## Chrome Extensions
 
