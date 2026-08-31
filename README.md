@@ -10,12 +10,12 @@ A curated catalog of public applications and browser extensions maintained by [Q
 
 ### [DeepSeek Harness for macOS](https://github.com/qingtan-labs/deepseek-harness-macos)
 
-A native Dock and menu bar controller for DeepSeek Harness (DSH). It manages the local DSH service, reuses an existing Harness browser tab whenever possible, and provides an optional in-app window.
+A native Dock and menu bar controller for DeepSeek Harness (DSH). It manages the local service, reuses an existing Harness browser tab whenever possible, and provides an optional in-app window. Setup preserves and reuses a compatible user-installed DSH/Node environment before adding any isolated fallback components.
 
-- **Highlights:** Dock and menu bar access, browser-tab reuse, service health controls, login startup, English and Simplified Chinese, and a universal Apple silicon/Intel build
+- **Highlights:** Single-file DMG, existing-environment-first setup, Dock and menu bar access, browser-tab reuse, service health and user-confirmed update controls, login startup, English and Simplified Chinese, and a universal Apple silicon/Intel build
 - **Requirements:** macOS 13 Ventura or later
 - **License:** MIT
-- **Links:** [Source code](https://github.com/qingtan-labs/deepseek-harness-macos) · [Latest release](https://github.com/qingtan-labs/deepseek-harness-macos/releases/latest) · [简体中文](https://github.com/qingtan-labs/deepseek-harness-macos/blob/main/README.zh-Hans.md)
+- **Links:** [Download DMG](https://github.com/qingtan-labs/deepseek-harness-macos/releases/latest/download/DeepSeek-Harness-1.0.0-macOS.dmg) · [Source code](https://github.com/qingtan-labs/deepseek-harness-macos) · [Release notes](https://github.com/qingtan-labs/deepseek-harness-macos/releases/latest) · [简体中文](https://github.com/qingtan-labs/deepseek-harness-macos/blob/main/README.zh-Hans.md)
 
 ### [StatusPerch](https://github.com/qingtan-labs/StatusPerch)
 
