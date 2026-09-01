@@ -45,4 +45,14 @@
 
 ## Chrome 浏览器扩展
 
-相关项目将在发布后添加到这里。
+### [LoginFlip](https://qingtan-labs.github.io/loginflip/)
+
+一款隐私优先的 Chrome 浏览器扩展。它在本机保存网站登录状态快照，让用户可以在工作号、测试号、客户账号、创作者账号和个人账号之间快速切换。
+
+- **主要功能：** 一键切换账号、按网站分组、快捷键、账号置顶与排序、纯本地存储、口令加密备份、恢复控制、跟随系统/浅色/深色主题，以及英文与简体中文界面
+- **隐私边界：** 无需 LoginFlip 账号，没有开发者服务器、云同步、遥测、广告或跟踪；登录状态快照保留在用户设备的 Chrome 中
+- **环境要求：** macOS 或 Windows 上的 Chrome 132 及更高版本
+- **发布状态：** 1.0.0 版本，现已面向全球免费发布
+- **官方链接：** [前往 Chrome 应用商店安装](https://chromewebstore.google.com/detail/loginflip/mmkolcfdcgnimofbijnkmmehnhmmonok) · [产品官网](https://qingtan-labs.github.io/loginflip/) · [隐私政策](https://qingtan-labs.github.io/loginflip/privacy/) · [使用支持](https://qingtan-labs.github.io/loginflip/support/)
+
+扩展源码与发布工程仍为个人私有资产；本展示文档仅链接公开的产品资料与官方分发渠道。

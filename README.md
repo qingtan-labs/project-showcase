@@ -45,4 +45,14 @@ A native, one-click Windows controller for DeepSeek Harness. It installs an isol
 
 ## Chrome Extensions
 
-Projects will be added here as they are released.
+### [LoginFlip](https://qingtan-labs.github.io/loginflip/)
+
+A privacy-first Chrome extension for saving local website login-state snapshots and switching between work, test, client, creator, and personal accounts in seconds.
+
+- **Highlights:** One-click account switching, per-site account groups, shortcuts, pinned and ordered accounts, local-only storage, password-encrypted backups, recovery controls, System/Light/Dark themes, and English/Simplified Chinese
+- **Privacy:** No LoginFlip account, developer server, cloud sync, telemetry, advertising, or tracking; session snapshots remain in Chrome on the user's device
+- **Requirements:** Chrome 132 or later on macOS or Windows
+- **Release:** Version 1.0.0, available worldwide for free
+- **Official links:** [Install from the Chrome Web Store](https://chromewebstore.google.com/detail/loginflip/mmkolcfdcgnimofbijnkmmehnhmmonok) · [Product website](https://qingtan-labs.github.io/loginflip/) · [Privacy policy](https://qingtan-labs.github.io/loginflip/privacy/) · [Support](https://qingtan-labs.github.io/loginflip/support/)
+
+The extension source and release engineering remain private personal assets; this showcase links only to public product materials and distribution channels.
