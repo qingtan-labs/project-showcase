@@ -53,6 +53,6 @@
 - **隐私边界：** 无需 LoginFlip 账号，没有开发者服务器、云同步、遥测、广告或跟踪；登录状态快照保留在用户设备的 Chrome 中
 - **环境要求：** macOS 或 Windows 上的 Chrome 132 及更高版本
 - **发布状态：** 1.0.0 版本，现已面向全球免费发布
-- **官方链接：** [前往 Chrome 应用商店安装](https://chromewebstore.google.com/detail/loginflip/mmkolcfdcgnimofbijnkmmehnhmmonok) · [产品官网](https://qingtan-labs.github.io/loginflip/) · [隐私政策](https://qingtan-labs.github.io/loginflip/privacy/) · [使用支持](https://qingtan-labs.github.io/loginflip/support/)
+- **官方链接：** [前往 Chrome 应用商店安装](https://chromewebstore.google.com/detail/mmkolcfdcgnimofbjjnkmmehnhmmonok) · [产品官网](https://qingtan-labs.github.io/loginflip/) · [隐私政策](https://qingtan-labs.github.io/loginflip/privacy/) · [使用支持](https://qingtan-labs.github.io/loginflip/support/)
 
 扩展源码与发布工程仍为个人私有资产；本展示文档仅链接公开的产品资料与官方分发渠道。
