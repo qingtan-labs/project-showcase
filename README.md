@@ -12,7 +12,7 @@ A curated catalog of public applications and browser extensions maintained by [Q
 
 A native Dock and menu bar controller for DeepSeek Harness (DSH). It manages the local service, reuses an existing Harness browser tab whenever possible, and provides an optional in-app window. Setup preserves and reuses a compatible user-installed DSH/Node environment before adding any isolated fallback components.
 
-- **Highlights:** Single-file DMG, existing-environment-first setup, Dock and menu bar access, browser-tab reuse, service health and user-confirmed update controls, login startup, English and Simplified Chinese, and a universal Apple silicon/Intel build
+- **Highlights:** Single-file DMG, existing-environment-first setup, Dock and menu bar access, browser-tab reuse, service health controls, staged DSH update validation before activation, login startup, English and Simplified Chinese, and a universal Apple silicon/Intel build
 - **Requirements:** macOS 13 Ventura or later
 - **License:** MIT
 - **Project status:** Independent community project; not affiliated with or endorsed by DeepSeek
