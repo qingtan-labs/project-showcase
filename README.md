@@ -6,7 +6,31 @@
 
 A curated catalog of public applications and browser extensions maintained by [Qingtan Labs](https://github.com/qingtan-labs).
 
+## Cross-Platform Product Families
+
+### [DeepSeek Harness Desktop](https://github.com/qingtan-labs/deepseek-harness-desktop)
+
+The unified home for Qingtan Labs' native DeepSeek Harness controllers on macOS and Windows. It gives users one stable product entry point while each platform keeps its own native source, CI, issue tracker, release history, and version cadence.
+
+- **Platforms:** macOS 13+ on Apple silicon/Intel, and Windows 10 22H2 or Windows 11 on x64/ARM64
+- **Downloads:** Latest platform releases and SHA-256 verification files remain in the authoritative macOS and Windows repositories
+- **License:** MIT
+- **Project status:** Independent community projects; not affiliated with or endorsed by DeepSeek
+- **Official links:** [Unified project home](https://github.com/qingtan-labs/deepseek-harness-desktop) · [Latest macOS release](https://github.com/qingtan-labs/deepseek-harness-macos/releases/latest) · [Latest Windows release](https://github.com/qingtan-labs/deepseek-harness-windows/releases/latest) · [简体中文](https://github.com/qingtan-labs/deepseek-harness-desktop/blob/main/README.zh-Hans.md)
+
 ## macOS Applications
+
+### [Gauge for Codex](https://gauge-for-codex.r9rgtcrw5g.chatgpt.site)
+
+A focused native macOS menu bar utility for seeing Codex remaining quota, every available usage window, and the exact local reset time without leaving the current workspace.
+
+- **Highlights:** Always-visible percentage and progress indicator, every available usage window, localized reset countdown and exact time, 60-second automatic refresh, last-known-good fallback, manual entry fallback, English/Simplified Chinese/Japanese/Spanish, and a universal Apple silicon/Intel build
+- **Privacy:** Local-first operation with no analytics, advertising, telemetry, developer account system, or developer-operated backend; it does not read prompts or conversation content
+- **Requirements:** macOS 12 Monterey or later and a signed-in Codex installation
+- **License:** MIT
+- **Project status:** Unofficial third-party utility; not affiliated with or endorsed by OpenAI
+- **Release trust:** The current release is ad-hoc signed and not Apple-notarized; use Control-click **Open** and never disable Gatekeeper
+- **Official links:** [Product website](https://gauge-for-codex.r9rgtcrw5g.chatgpt.site) · [Latest DMG, ZIP, and checksums](https://github.com/qingtan-labs/GaugeForCodex/releases/latest) · [Source code](https://github.com/qingtan-labs/GaugeForCodex) · [Privacy](https://github.com/qingtan-labs/GaugeForCodex/blob/main/PRIVACY.md) · [简体中文](https://github.com/qingtan-labs/GaugeForCodex/blob/main/README.zh-Hans.md)
 
 ### [DeepSeek Harness for macOS](https://github.com/qingtan-labs/deepseek-harness-macos)
 

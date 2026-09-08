@@ -6,7 +6,31 @@
 
 这里集中展示 [Qingtan Labs](https://github.com/qingtan-labs) 维护的公开应用和浏览器扩展。
 
+## 跨平台产品系列
+
+### [DeepSeek Harness Desktop](https://github.com/qingtan-labs/deepseek-harness-desktop)
+
+Qingtan Labs 原生 DeepSeek Harness macOS 与 Windows 控制器的统一入口。用户只需记住一个稳定的产品主页，同时每个平台继续保留自己的原生源码、CI、问题跟踪、发行历史和版本节奏。
+
+- **支持平台：** macOS 13+（Apple 芯片/Intel），以及 Windows 10 22H2 或 Windows 11（x64/ARM64）
+- **下载方式：** 最新平台版本和 SHA-256 校验文件继续由对应的 macOS、Windows 权威仓库提供
+- **开源许可：** MIT
+- **项目性质：** 独立社区项目，与 DeepSeek 不存在隶属或官方认可关系
+- **官方链接：** [统一项目主页](https://github.com/qingtan-labs/deepseek-harness-desktop) · [最新版 macOS](https://github.com/qingtan-labs/deepseek-harness-macos/releases/latest) · [最新版 Windows](https://github.com/qingtan-labs/deepseek-harness-windows/releases/latest) · [English](https://github.com/qingtan-labs/deepseek-harness-desktop/blob/main/README.md)
+
 ## macOS 应用
+
+### [Gauge for Codex](https://gauge-for-codex.r9rgtcrw5g.chatgpt.site)
+
+一款专注、原生的 macOS 菜单栏工具。无需离开当前工作区，即可查看 Codex 剩余额度、全部可用额度周期和当前时区下的准确重置时间。
+
+- **主要功能：** 菜单栏常驻百分比与进度提示、展示全部额度周期、本地化重置倒计时与准确时刻、每 60 秒自动刷新、最近一次有效数据后备、手动输入后备、英文/简体中文/日语/西班牙语，以及同时支持 Apple 芯片和 Intel Mac 的通用版本
+- **隐私边界：** 本地优先运行，没有分析、广告、遥测、开发者账号系统或开发者运营的后端；不会读取提示词和对话内容
+- **系统要求：** macOS 12 Monterey 或更高版本，并已登录 Codex
+- **开源许可：** MIT
+- **项目性质：** 非官方第三方工具，与 OpenAI 没有隶属或背书关系
+- **发行安全：** 当前版本采用临时签名且未经过 Apple 公证；首次运行请按住 Control 点击并选择“打开”，不要关闭 Gatekeeper
+- **官方链接：** [产品官网](https://gauge-for-codex.r9rgtcrw5g.chatgpt.site) · [最新版 DMG、ZIP 与校验文件](https://github.com/qingtan-labs/GaugeForCodex/releases/latest) · [源代码](https://github.com/qingtan-labs/GaugeForCodex) · [隐私说明](https://github.com/qingtan-labs/GaugeForCodex/blob/main/PRIVACY.md) · [English](https://github.com/qingtan-labs/GaugeForCodex/blob/main/README.md)
 
 ### [DeepSeek Harness for macOS](https://github.com/qingtan-labs/deepseek-harness-macos)
 
