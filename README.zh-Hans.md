@@ -20,7 +20,7 @@ Qingtan Labs 原生 DeepSeek Harness macOS 与 Windows 控制器的统一入口�
 
 ## macOS 应用
 
-### [Gauge for Codex](https://gauge-for-codex.r9rgtcrw5g.chatgpt.site)
+### [Gauge for Codex](https://qingtan-labs.github.io/GaugeForCodex/)
 
 一款专注、原生的 macOS 菜单栏工具。无需离开当前工作区，即可查看 Codex 剩余额度、全部可用额度周期和当前时区下的准确重置时间。
 
@@ -30,7 +30,7 @@ Qingtan Labs 原生 DeepSeek Harness macOS 与 Windows 控制器的统一入口�
 - **开源许可：** MIT
 - **项目性质：** 非官方第三方工具，与 OpenAI 没有隶属或背书关系
 - **发行安全：** 当前版本采用临时签名且未经过 Apple 公证；首次运行请按住 Control 点击并选择“打开”，不要关闭 Gatekeeper
-- **官方链接：** [产品官网](https://gauge-for-codex.r9rgtcrw5g.chatgpt.site) · [最新版 DMG、ZIP 与校验文件](https://github.com/qingtan-labs/GaugeForCodex/releases/latest) · [源代码](https://github.com/qingtan-labs/GaugeForCodex) · [隐私说明](https://github.com/qingtan-labs/GaugeForCodex/blob/main/PRIVACY.md) · [English](https://github.com/qingtan-labs/GaugeForCodex/blob/main/README.md)
+- **官方链接：** [产品官网](https://qingtan-labs.github.io/GaugeForCodex/) · [最新版 DMG、ZIP 与校验文件](https://github.com/qingtan-labs/GaugeForCodex/releases/latest) · [源代码](https://github.com/qingtan-labs/GaugeForCodex) · [隐私说明](https://github.com/qingtan-labs/GaugeForCodex/blob/main/PRIVACY.md) · [English](https://github.com/qingtan-labs/GaugeForCodex/blob/main/README.md)
 
 ### [DeepSeek Harness for macOS](https://github.com/qingtan-labs/deepseek-harness-macos)
 

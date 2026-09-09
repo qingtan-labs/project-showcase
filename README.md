@@ -20,7 +20,7 @@ The unified home for Qingtan Labs' native DeepSeek Harness controllers on macOS 
 
 ## macOS Applications
 
-### [Gauge for Codex](https://gauge-for-codex.r9rgtcrw5g.chatgpt.site)
+### [Gauge for Codex](https://qingtan-labs.github.io/GaugeForCodex/)
 
 A focused native macOS menu bar utility for seeing Codex remaining quota, every available usage window, and the exact local reset time without leaving the current workspace.
 
@@ -30,7 +30,7 @@ A focused native macOS menu bar utility for seeing Codex remaining quota, every 
 - **License:** MIT
 - **Project status:** Unofficial third-party utility; not affiliated with or endorsed by OpenAI
 - **Release trust:** The current release is ad-hoc signed and not Apple-notarized; use Control-click **Open** and never disable Gatekeeper
-- **Official links:** [Product website](https://gauge-for-codex.r9rgtcrw5g.chatgpt.site) · [Latest DMG, ZIP, and checksums](https://github.com/qingtan-labs/GaugeForCodex/releases/latest) · [Source code](https://github.com/qingtan-labs/GaugeForCodex) · [Privacy](https://github.com/qingtan-labs/GaugeForCodex/blob/main/PRIVACY.md) · [简体中文](https://github.com/qingtan-labs/GaugeForCodex/blob/main/README.zh-Hans.md)
+- **Official links:** [Product website](https://qingtan-labs.github.io/GaugeForCodex/) · [Latest DMG, ZIP, and checksums](https://github.com/qingtan-labs/GaugeForCodex/releases/latest) · [Source code](https://github.com/qingtan-labs/GaugeForCodex) · [Privacy](https://github.com/qingtan-labs/GaugeForCodex/blob/main/PRIVACY.md) · [简体中文](https://github.com/qingtan-labs/GaugeForCodex/blob/main/README.zh-Hans.md)
 
 ### [DeepSeek Harness for macOS](https://github.com/qingtan-labs/deepseek-harness-macos)
 
