@@ -20,6 +20,18 @@ Qingtan Labs 原生 DeepSeek Harness macOS 与 Windows 控制器的统一入口�
 
 ## macOS 应用
 
+### [ClariDiff（明析）](https://github.com/qingtan-labs/ClariDiff)
+
+一款开源、本地优先的 macOS 比较工具，面向结构化数据、源代码和文档。它会过滤表现形式带来的噪声，突出真正有意义的变化，而不是把所有内容都当成普通逐行 Diff。
+
+- **主要功能：** JSON/JSONL/YAML/TOML/XML/CSV 结构比较；数组按主键匹配或忽略顺序；忽略路径；数值误差；Vue、React JSX/TSX、JavaScript/TypeScript、Svelte、Astro、HTML/CSS 及其他源码的文件级对齐；TXT、Markdown、RTF、DOCX 与带文字层 PDF 的文档比较；Markdown 报告；可共享规则文件；以及独立 CLI
+- **隐私边界：** 完全本地运行，无需账号，没有分析统计、云服务、运行时网络请求或文件上传
+- **系统要求：** macOS 13 Ventura 或更高版本；Universal 2 同时支持 Apple 芯片和 Intel Mac
+- **开源许可：** MIT
+- **正式版本：** 1.0.0，提供 DMG、独立 CLI 与 SHA-256 校验文件
+- **发行安全：** 当前版本采用 ad-hoc 签名且未经过 Apple 公证；请遵循安全安装说明，不要关闭 Gatekeeper
+- **官方链接：** [最新版与下载](https://github.com/qingtan-labs/ClariDiff/releases/latest) · [源代码](https://github.com/qingtan-labs/ClariDiff) · [安全安装](https://github.com/qingtan-labs/ClariDiff/blob/main/docs/INSTALL.zh-Hans.md) · [隐私说明](https://github.com/qingtan-labs/ClariDiff/blob/main/PRIVACY.md) · [安全说明](https://github.com/qingtan-labs/ClariDiff/blob/main/SECURITY.md) · [English](https://github.com/qingtan-labs/ClariDiff/blob/main/README.md)
+
 ### [Gauge for Codex](https://qingtan-labs.github.io/GaugeForCodex/)
 
 一款专注、原生的 macOS 菜单栏工具。无需离开当前工作区，即可查看 Codex 剩余额度、全部可用额度周期和当前时区下的准确重置时间。
