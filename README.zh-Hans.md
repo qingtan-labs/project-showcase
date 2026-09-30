@@ -75,9 +75,10 @@ Qingtan Labs 原生 DeepSeek Harness macOS 与 Windows 控制器的统一入口�
 - **更新交互：** 每周自动检查及手动检查；只提醒，用户点击后才安装，并进行 SHA-256 校验和替换失败回退
 - **隐私边界：** 本地读取额度，不调用模型、不读取提示词或对话；没有遥测或开发者后端。更新检查会访问 GitHub。
 - **系统要求：** Windows 10 22H2 或 Windows 11，并已登录 Codex；安装包自带 .NET 运行时。原生毛玻璃需要 Windows 11 22H2 或更高版本。
-- **正式版本：** 0.1.0；MIT；非官方第三方工具，与 OpenAI 没有隶属或背书关系
+- **正式版本：** 0.1.1；MIT；非官方第三方工具，与 OpenAI 没有隶属或背书关系
 - **发行安全：** 尚未进行 Authenticode 签名，SmartScreen 可能显示未知发布者警告；ARM64 已交叉编译并验证安装包，尚未在 ARM64 实机测试。
 - **官方链接：** [最新版、安装 ZIP、源码 ZIP 与校验文件](https://github.com/qingtan-labs/GaugeForCodex-Windows/releases/latest) · [源代码](https://github.com/qingtan-labs/GaugeForCodex-Windows) · [隐私说明](https://github.com/qingtan-labs/GaugeForCodex-Windows/blob/main/PRIVACY.md) · [安全说明](https://github.com/qingtan-labs/GaugeForCodex-Windows/blob/main/SECURITY.md) · [English](https://github.com/qingtan-labs/GaugeForCodex-Windows/blob/main/README.md)
+
 
 
 ### [DeepSeek Harness for Windows](https://github.com/qingtan-labs/deepseek-harness-windows)
