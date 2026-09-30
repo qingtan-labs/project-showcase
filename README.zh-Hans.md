@@ -67,6 +67,19 @@ Qingtan Labs 原生 DeepSeek Harness macOS 与 Windows 控制器的统一入口�
 
 ## Windows 应用
 
+### [Gauge for Codex · Windows 版](https://github.com/qingtan-labs/GaugeForCodex-Windows)
+
+一款原生 Windows Codex 额度工具，通过右下角系统托盘查看缩略信息，并提供可选、可拖动的雾面玻璃桌面卡片。与 macOS 版同名，Windows 源码与发行版本由独立仓库维护。
+
+- **主要功能：** 全部可用额度周期、剩余百分比、重置倒计时与本地准确时间、每 60 秒刷新、最近有效数据缓存、手动填写后备、默认不置顶的桌面卡片、跟随 Codex 启动、英文/简体中文/日语/西班牙语，以及 x64/ARM64 安装包
+- **更新交互：** 每周自动检查及手动检查；只提醒，用户点击后才安装，并进行 SHA-256 校验和替换失败回退
+- **隐私边界：** 本地读取额度，不调用模型、不读取提示词或对话；没有遥测或开发者后端。更新检查会访问 GitHub。
+- **系统要求：** Windows 10 22H2 或 Windows 11，并已登录 Codex；安装包自带 .NET 运行时。原生毛玻璃需要 Windows 11 22H2 或更高版本。
+- **正式版本：** 0.1.0；MIT；非官方第三方工具，与 OpenAI 没有隶属或背书关系
+- **发行安全：** 尚未进行 Authenticode 签名，SmartScreen 可能显示未知发布者警告；ARM64 已交叉编译并验证安装包，尚未在 ARM64 实机测试。
+- **官方链接：** [最新版、安装 ZIP、源码 ZIP 与校验文件](https://github.com/qingtan-labs/GaugeForCodex-Windows/releases/latest) · [源代码](https://github.com/qingtan-labs/GaugeForCodex-Windows) · [隐私说明](https://github.com/qingtan-labs/GaugeForCodex-Windows/blob/main/PRIVACY.md) · [安全说明](https://github.com/qingtan-labs/GaugeForCodex-Windows/blob/main/SECURITY.md) · [English](https://github.com/qingtan-labs/GaugeForCodex-Windows/blob/main/README.md)
+
+
 ### [DeepSeek Harness for Windows](https://github.com/qingtan-labs/deepseek-harness-windows)
 
 一款面向 DeepSeek Harness 的原生 Windows 一键控制器。它使用隔离且经过验证的私有运行环境，默认复用已有浏览器标签页，支持可选的 WebView2 应用内窗口，并通过系统托盘管理服务、更新和登录启动。
