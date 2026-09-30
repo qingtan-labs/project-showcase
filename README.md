@@ -69,15 +69,21 @@ A lightweight native macOS menu bar organizer. Place low-frequency status items 
 
 ### [Gauge for Codex · Windows](https://github.com/qingtan-labs/GaugeForCodex-Windows)
 
-A native Windows companion for viewing Codex quota from the system tray, with an optional draggable frosted-glass desktop card. It shares the macOS product name while keeping Windows source and releases in a separate repository.
+A native Windows companion for viewing Codex quota in a clear, opaque tray flyout, with an optional draggable frosted-glass desktop card. It shares the macOS product name while keeping Windows source and releases in a separate repository.
 
-- **Highlights:** All available quota windows, remaining percentage, reset countdown and exact local time, 60-second refresh, last-known-good cache, manual fallback, non-topmost desktop card, follow-Codex startup, English/Simplified Chinese/Japanese/Spanish, and x64/ARM64 packages
+<img src="https://raw.githubusercontent.com/qingtan-labs/GaugeForCodex-Windows/v1.0.0/assets/screenshots/tray-panel-preview.png" width="268" alt="Opaque Windows tray flyout with synthetic quota">
+<img src="https://raw.githubusercontent.com/qingtan-labs/GaugeForCodex-Windows/v1.0.0/assets/screenshots/widget-expanded-preview.png" width="304" alt="Five-hour desktop card with only weekly quota in details">
+
+Layout previews use synthetic data, not personal desktop captures. Actual background blur depends on Windows composition settings.
+
+- **Highlights:** Actual five-hour quota on the main card and weekly quota in details when returned, no repeated single-period disclosure, remaining percentage, local reset countdown/time, 60-second refresh, timestamped cache/manual fallback, 58% frosted desktop tint, DPI-aware taskbar-theme icons, non-topmost card, follow-Codex startup, four languages, and x64/ARM64 packages
 - **Updates:** Weekly automatic and manual checks; notify only until the user chooses to install, with SHA-256 validation and rollback on replacement failure
 - **Privacy:** Quota is read locally without model calls or reading prompts/conversations; no telemetry or developer backend. Update checks contact GitHub.
 - **Requirements:** Windows 10 22H2 or Windows 11 and a signed-in Codex installation; the .NET runtime is included. Native acrylic requires Windows 11 22H2 or later.
-- **Release:** Version 0.1.1; MIT; unofficial third-party utility, not affiliated with or endorsed by OpenAI
+- **Release:** Version 1.0.0; MIT; unofficial third-party utility, not affiliated with or endorsed by OpenAI
+- **Theme scope:** Tray follows taskbar light/dark preference; full-window dark-mode selection is not included in 1.0.0.
 - **Release trust:** Not Authenticode-signed; SmartScreen may show an unknown-publisher warning. ARM64 is cross-built and package-verified, not tested on physical ARM64 hardware.
-- **Official links:** [Latest release, ZIPs, source archive and checksums](https://github.com/qingtan-labs/GaugeForCodex-Windows/releases/latest) · [Source code](https://github.com/qingtan-labs/GaugeForCodex-Windows) · [Privacy](https://github.com/qingtan-labs/GaugeForCodex-Windows/blob/main/PRIVACY.md) · [Security](https://github.com/qingtan-labs/GaugeForCodex-Windows/blob/main/SECURITY.md) · [简体中文](https://github.com/qingtan-labs/GaugeForCodex-Windows/blob/main/README.zh-Hans.md)
+- **Official links:** [1.0.0 ZIPs, source archive and checksums](https://github.com/qingtan-labs/GaugeForCodex-Windows/releases/tag/v1.0.0) · [Source code](https://github.com/qingtan-labs/GaugeForCodex-Windows) · [Detailed guide (中文)](https://github.com/qingtan-labs/GaugeForCodex-Windows/blob/main/docs/user-guide.zh-Hans.md) · [Privacy](https://github.com/qingtan-labs/GaugeForCodex-Windows/blob/main/PRIVACY.md) · [Security](https://github.com/qingtan-labs/GaugeForCodex-Windows/blob/main/SECURITY.md) · [简体中文](https://github.com/qingtan-labs/GaugeForCodex-Windows/blob/main/README.zh-Hans.md)
 
 
 

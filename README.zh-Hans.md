@@ -69,15 +69,21 @@ Qingtan Labs 原生 DeepSeek Harness macOS 与 Windows 控制器的统一入口�
 
 ### [Gauge for Codex · Windows 版](https://github.com/qingtan-labs/GaugeForCodex-Windows)
 
-一款原生 Windows Codex 额度工具，通过右下角系统托盘查看缩略信息，并提供可选、可拖动的雾面玻璃桌面卡片。与 macOS 版同名，Windows 源码与发行版本由独立仓库维护。
+一款原生 Windows Codex 额度工具，右下角托盘浮窗使用清晰实色面板，并提供独立、可拖动的雾面玻璃桌面组件。与 macOS 版同名，Windows 源码与发行版本由独立仓库维护。
 
-- **主要功能：** 全部可用额度周期、剩余百分比、重置倒计时与本地准确时间、每 60 秒刷新、最近有效数据缓存、手动填写后备、默认不置顶的桌面卡片、跟随 Codex 启动、英文/简体中文/日语/西班牙语，以及 x64/ARM64 安装包
+<img src="https://raw.githubusercontent.com/qingtan-labs/GaugeForCodex-Windows/v1.0.0/assets/screenshots/tray-panel-preview.png" width="268" alt="实色托盘浮窗及操作区，使用示例额度">
+<img src="https://raw.githubusercontent.com/qingtan-labs/GaugeForCodex-Windows/v1.0.0/assets/screenshots/widget-expanded-preview.png" width="304" alt="5 小时主卡片，详情只显示周额度">
+
+图例使用示例额度，不是私人桌面截图；实际背景模糊与透色由 Windows 合成环境决定。
+
+- **主要功能：** 实际返回 5 小时＋7 天时主卡片展示 5 小时、详情仅展示周额度，单周期不重复；剩余百分比、重置倒计时与本地时间、每 60 秒刷新、带时间的缓存及手动后备、58% 底色的雾面组件、DPI 清晰的浅深色托盘、默认不置顶、跟随启动、四语言及 x64/ARM64 包
 - **更新交互：** 每周自动检查及手动检查；只提醒，用户点击后才安装，并进行 SHA-256 校验和替换失败回退
 - **隐私边界：** 本地读取额度，不调用模型、不读取提示词或对话；没有遥测或开发者后端。更新检查会访问 GitHub。
 - **系统要求：** Windows 10 22H2 或 Windows 11，并已登录 Codex；安装包自带 .NET 运行时。原生毛玻璃需要 Windows 11 22H2 或更高版本。
-- **正式版本：** 0.1.1；MIT；非官方第三方工具，与 OpenAI 没有隶属或背书关系
+- **正式版本：** 1.0.0；MIT；非官方第三方工具，与 OpenAI 没有隶属或背书关系
+- **主题范围：** 托盘跟随任务栏浅深色；1.0.0 尚未包含全界面暗色模式选择。
 - **发行安全：** 尚未进行 Authenticode 签名，SmartScreen 可能显示未知发布者警告；ARM64 已交叉编译并验证安装包，尚未在 ARM64 实机测试。
-- **官方链接：** [最新版、安装 ZIP、源码 ZIP 与校验文件](https://github.com/qingtan-labs/GaugeForCodex-Windows/releases/latest) · [源代码](https://github.com/qingtan-labs/GaugeForCodex-Windows) · [隐私说明](https://github.com/qingtan-labs/GaugeForCodex-Windows/blob/main/PRIVACY.md) · [安全说明](https://github.com/qingtan-labs/GaugeForCodex-Windows/blob/main/SECURITY.md) · [English](https://github.com/qingtan-labs/GaugeForCodex-Windows/blob/main/README.md)
+- **官方链接：** [1.0.0 安装 ZIP、源码 ZIP 与校验文件](https://github.com/qingtan-labs/GaugeForCodex-Windows/releases/tag/v1.0.0) · [源代码](https://github.com/qingtan-labs/GaugeForCodex-Windows) · [完整使用说明](https://github.com/qingtan-labs/GaugeForCodex-Windows/blob/main/docs/user-guide.zh-Hans.md) · [隐私说明](https://github.com/qingtan-labs/GaugeForCodex-Windows/blob/main/PRIVACY.md) · [安全说明](https://github.com/qingtan-labs/GaugeForCodex-Windows/blob/main/SECURITY.md) · [English](https://github.com/qingtan-labs/GaugeForCodex-Windows/blob/main/README.md)
 
 
 
