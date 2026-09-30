@@ -67,6 +67,19 @@ A lightweight native macOS menu bar organizer. Place low-frequency status items 
 
 ## Windows Applications
 
+### [Gauge for Codex · Windows](https://github.com/qingtan-labs/GaugeForCodex-Windows)
+
+A native Windows companion for viewing Codex quota from the system tray, with an optional draggable frosted-glass desktop card. It shares the macOS product name while keeping Windows source and releases in a separate repository.
+
+- **Highlights:** All available quota windows, remaining percentage, reset countdown and exact local time, 60-second refresh, last-known-good cache, manual fallback, non-topmost desktop card, follow-Codex startup, English/Simplified Chinese/Japanese/Spanish, and x64/ARM64 packages
+- **Updates:** Weekly automatic and manual checks; notify only until the user chooses to install, with SHA-256 validation and rollback on replacement failure
+- **Privacy:** Quota is read locally without model calls or reading prompts/conversations; no telemetry or developer backend. Update checks contact GitHub.
+- **Requirements:** Windows 10 22H2 or Windows 11 and a signed-in Codex installation; the .NET runtime is included. Native acrylic requires Windows 11 22H2 or later.
+- **Release:** Version 0.1.0; MIT; unofficial third-party utility, not affiliated with or endorsed by OpenAI
+- **Release trust:** Not Authenticode-signed; SmartScreen may show an unknown-publisher warning. ARM64 is cross-built and package-verified, not tested on physical ARM64 hardware.
+- **Official links:** [Latest release, ZIPs, source archive and checksums](https://github.com/qingtan-labs/GaugeForCodex-Windows/releases/latest) · [Source code](https://github.com/qingtan-labs/GaugeForCodex-Windows) · [Privacy](https://github.com/qingtan-labs/GaugeForCodex-Windows/blob/main/PRIVACY.md) · [Security](https://github.com/qingtan-labs/GaugeForCodex-Windows/blob/main/SECURITY.md) · [简体中文](https://github.com/qingtan-labs/GaugeForCodex-Windows/blob/main/README.zh-Hans.md)
+
+
 ### [DeepSeek Harness for Windows](https://github.com/qingtan-labs/deepseek-harness-windows)
 
 A native, one-click Windows controller for DeepSeek Harness. It installs an isolated verified runtime, reuses an existing browser tab by default, offers an optional WebView2 in-app window, and exposes service, update, and sign-in controls from the system tray.
